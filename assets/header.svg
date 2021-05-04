@@ -1,0 +1,57 @@
+<svg fill="none" viewBox="0 0 800 200" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+                @keyframes undertext {
+                    0% {
+                        transform: translateY(5px);
+                    }
+                    100% {
+                        transform: translateY(-5px);
+                    }
+                }
+                @keyframes header {
+                    0% {
+                        letter-spacing: 5px;
+                    }
+                    100% {
+                        letter-spacing: 8px;
+                    }
+                }
+				.container {
+					font-family: Roboto;
+					display: flex;
+					flex-direction: column;
+					align-items: center;
+					justify-content: center;
+					margin: 0;
+					width: 100%;
+					height: 200px;
+					background: #fff;
+                    background-size: 600% 400%;
+					border-radius: 10px;
+					color:  #000;
+					text-align: center;
+                    box-sizing: border-box;
+				}
+				h1 {
+					font-size: 50px;
+					letter-spacing: 5px;
+                    line-height: 0.6;
+					text-transform: uppercase;
+                    text-shadow: 0 1px 0 #efefef;
+                    animation: header ease-in-out 10s infinite alternate;
+				}
+				p {
+					font-size: 20px;
+					text-shadow: 0 1px 0 #efefef;
+                    animation: undertext ease-in-out 4s infinite alternate;
+				}
+			</style>
+			<div class="container">
+				<h1>Gregoire Layet</h1>
+				<p>Hi there 👋</p>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
