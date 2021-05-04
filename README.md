@@ -31,8 +31,6 @@ I'm Gregoire, Fullstack and Python developer from **France**.
 ![](https://img.shields.io/badge/ovh%20cloud-%23123f6d.svg?&style=for-the-badge&logo=ovh&logoColor=white)
 
 
-
-
 ## My Tools
 
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
