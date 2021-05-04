@@ -33,19 +33,18 @@ I'm Gregoire, Fullstack and Python developer from **France**.
 
 ## My Tools
 
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-
-<img alt="Affinity Designer" src="https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?&style=for-the-badge&logo=affinity-designer&logoColor=white"/>
-
-<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+![](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)<br>
+![](https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?&style=for-the-badge&logo=affinity-designer&logoColor=white)<br>
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
 ## Other stuffs
-<img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
-<img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+![](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 
-<h2>Contact me<h2>
-<a href="gregoirelayet.com/contact" target="_blank" ><img alt="Twitch" src="https://img.shields.io/badge/Gregoirelayet.com/contact-%23000.svg?&style=for-the-badge"/></a>
+## Contact me
+[![](https://img.shields.io/badge/Gregoirelayet.com/contact-%23000.svg?&style=for-the-badge)](gregoirelayet.com/contact)
+
