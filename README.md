@@ -4,11 +4,11 @@
     </a>
 </div>
 <div align="center">
-    <a href="gregoirelayet.com/l/instagram" target="_blank" ><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-    <a href="gregoirelayet.com/l/twitter" target="_blank" ><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-    <a href="gregoirelayet.com/l/instagram" target="_blank" ><img alt="Youtube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a>
-    <a href="gregoirelayet.com/l/instagram" target="_blank" ><img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a><br>
-    <a href="gregoirelayet.com" target="_blank" ><img alt="Twitch" src="https://img.shields.io/badge/Gregoirelayet.com-%23000.svg?&style=for-the-badge"/></a>
+    <a href="https://gregoirelayet.com/l/instagram" target="_blank" ><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+    <a href="https://gregoirelayet.com/l/twitter" target="_blank" ><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+    <a href="https://gregoirelayet.com/l/instagram" target="_blank" ><img alt="Youtube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+    <a href="https://gregoirelayet.com/l/instagram" target="_blank" ><img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a><br>
+    <a href="https://gregoirelayet.com" target="_blank" ><img alt="Twitch" src="https://img.shields.io/badge/Gregoirelayet.com-%23000.svg?&style=for-the-badge"/></a>
 </div>
 
 ----
@@ -46,5 +46,5 @@ I'm Gregoire, Fullstack and Python developer from **France**.
 
 
 ## Contact me
-[![](https://img.shields.io/badge/Gregoirelayet.com/contact-%23000.svg?&style=for-the-badge)](gregoirelayet.com/contact)
+[![](https://img.shields.io/badge/Gregoirelayet.com/contact-%23000.svg?&style=for-the-badge)](https://gregoirelayet.com/contact)
 
