@@ -26,7 +26,6 @@ I'm Gregoire, Fullstack and Python developer from **France**.
 ![](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)<br>
 ![](https://img.shields.io/badge/flask-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
 ![](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)<br>
-![](https://img.shields.io/badge/nginx-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white)
 ![](https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)<br>
 ![](https://img.shields.io/badge/ovh%20cloud-%23123f6d.svg?&style=for-the-badge&logo=ovh&logoColor=white)
 
