@@ -18,7 +18,7 @@ Welcome to my github profile!
 I'm Gregoire, Fullstack and Python developer from **France**.
 
 ## My web stack
-*i call it the **BLEEN** (because its blue and green)*
+*it's the **BLEEN** stack*
 
 ![](https://img.shields.io/badge/vuejs-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 ![](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)<br>
@@ -27,7 +27,9 @@ I'm Gregoire, Fullstack and Python developer from **France**.
 ![](https://img.shields.io/badge/fastapi-%23009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white)
 ![](https://img.shields.io/badge/flask-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
 ![](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)<br>
+![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)
 ![](https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)<br>
+![DigitalOcean Badge](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=fff&style=for-the-badge)
 ![](https://img.shields.io/badge/ovh%20cloud-%23123f6d.svg?&style=for-the-badge&logo=ovh&logoColor=white)
 
 
