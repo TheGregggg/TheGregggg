@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="gregoirelayet.com" target="_blank" >
+    <a href="https://gregoirelayet.com" target="_blank" >
         <img src="assets/header.svg" width="800" height="200" alt="Click to see the source">
     </a>
 </div>
