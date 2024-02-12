@@ -7,7 +7,7 @@
     <a href="https://gregoirelayet.com" target="_blank" ><img alt="Twitch" src="https://img.shields.io/badge/Gregoirelayet.com-%23000.svg?&style=for-the-badge"/></a>
 </div>
 
----
+## Welcome !
 
 Welcome to my Github profile !
 
