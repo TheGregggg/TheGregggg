@@ -13,7 +13,7 @@
 
 ----
 
-Welcome to my github profile!
+Welcome to my Github profile!
 
 I'm Gregoire, Fullstack and Python developer from **France**.
 
